@@ -1,0 +1,51 @@
+
+
+
+header{
+    background: black; 
+    background-size: cover;
+    color:white;
+    text-align: center;
+    
+      
+}
+body{
+    background: grey;
+    background-size: cover; 
+    color: whitesmoke;
+    font-size: 1 rem;
+        
+    
+}
+
+h2{
+    background-color: grey;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+h3{
+    background-color: grey;
+    text-align: center;
+    font-size: 4rem;
+    
+    
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+img{
+    width: 100px;
+    height:100px ;   
+    text-align: left;
+}
+
+
